@@ -38,10 +38,3 @@ for i in range(len(kata)):
          hexa = hex_chars[sisa] + hexa
          desimal //= 16
     print('hexa\t= ', hexa)
-
-
-
-
-
-
-
